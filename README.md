@@ -4,7 +4,7 @@
 Trabajo practico de algoritmo y programación 2 de la Facultad de Ingeniería Universidad de Buenos Aires
 
 ## Personas Contribuyentes
-Proyecto grupal realizado únicamente por entre un grupo de 2 personas.
+Proyecto realizado en grupo.
 
 ## Tecnologías utilizadas
 - C

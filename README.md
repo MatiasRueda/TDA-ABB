@@ -3,7 +3,7 @@
 
 Trabajo practico de algoritmo y programación 2 de la Facultad de Ingeniería Universidad de Buenos Aires
 
-## Personas Contribuyentes
+## Tipo de proyecto
 Proyecto realizado en grupo.
 
 ## Tecnologías utilizadas
